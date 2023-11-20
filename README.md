@@ -1,2 +1,5 @@
-# gravity-of-falling-objects-and-bouncing-effects
-physics of falling objects using parameters
+# object-momentum
+FallingmotionAPP
+
+
+shows the falling motion and bouncing effect.
